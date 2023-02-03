@@ -175,6 +175,8 @@ strong {
     }
 
     .cabecalho__menu{
+        display: flex;
+        gap: 50px;
         justify-content: center;
     }
 
